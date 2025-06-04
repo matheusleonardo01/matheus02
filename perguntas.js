@@ -1,23 +1,23 @@
 criaCartao(
-    'Programação',
-    'O que é Python?',
-    'O Python é uma linguagem de programação'
+    'arte marcial',
+    'para que serve o muay thai?',
+    'arte marcial que ajuda desenvolver a força,resistència,agilidade e coordenação motora'
 )
 
 criaCartao(
-    'Geografia',
-    'Qual a capital da França?',
-    'A capital da França é Paris'
+    'video game',
+    'em que ano foi lançado o xbox',
+    '10 de novembro de 2020'
 )
 
 criaCartao(
-    'Programação',
-    'O que é uma função?',
-    'Uma função é um bloco de código que executa alguma tarefa'
+    'video game',
+    'qual foi o primeiro console da história',
+    'Magnavox Odyssey'
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'arte marcial',
+    'onde nasceu o muay thai',
+    'O Muay Thai nasceu na Tailândia'
 )
