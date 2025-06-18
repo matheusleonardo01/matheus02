@@ -7,7 +7,7 @@ criaCartao(
 criaCartao(
     'video game',
     'em que ano foi lançado o xbox',
-    '10 de novembro de 2020'
+    '15 de novembro de 2001'
 )
 
 criaCartao(
